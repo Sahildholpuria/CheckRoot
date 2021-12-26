@@ -18,6 +18,7 @@
         android:layout_marginTop="80dp"/>
 
     <Button
+        android:onClick="check_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/text_View"

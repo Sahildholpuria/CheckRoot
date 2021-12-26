@@ -1,6 +1,7 @@
 package com.sahildholpuria.checkroot;
 
 import android.os.Bundle;
+import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -12,4 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
+    public void check_btn(View view) {
+    }
 }
