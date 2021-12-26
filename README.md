@@ -1,3 +1,4 @@
+<a href="#"><img width="200" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" /></a>
 # CheckRoot
 
 This Android application provides even the newest Android user with a simple method to check their device for 
