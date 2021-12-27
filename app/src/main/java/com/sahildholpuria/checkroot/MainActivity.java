@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity {
 //        Toast.makeText(this, "Your Phone is Not Rooted", Toast.LENGTH_SHORT).show();
         RootBeer rootBeer = new RootBeer(this);
         if (rootBeer.isRooted()) {
-            //we found indication of root
             Toast.makeText(this, "Your Phone is Rooted", Toast.LENGTH_SHORT).show();
             textView.setText("Your Device is Rooted!");
         } else {
